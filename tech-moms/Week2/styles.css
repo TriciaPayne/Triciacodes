@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(99, 207, 211)
+}
+
+h1 {
+    color: white;
+    text-align: left;
+}
+
+ul {
+    font-family: Optima;
+    font-size: 18px;
+}
+
+ol {
+    font-family: Georgia, 'Times New Roman', Times, serif font-size: 18px;
+}
+
+.moms {
+    color: rgb (80, 29, 29);
+}
