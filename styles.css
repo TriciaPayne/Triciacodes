@@ -3,8 +3,22 @@ body {
 }
 
 h1 {
-    color: white;
+    color: black;
     text-align: left;
+}
+
+.Intro1 {
+    background-color: blueviolet;
+    float: right;
+    border-radius: 15px;
+    margin-right: 500px;
+
+
+}
+
+.Name {
+    text-align: center;
+
 }
 
 ul {
