@@ -1,19 +1,38 @@
 body {
-    background-color: rgb(99, 207, 211)
+    background-color: rgb(246, 114, 26)
 }
 
 h1 {
     color: black;
-    text-align: left;
+    text-align: center;
+    font-family: Nabla;
+    font-size: 100px;
+
 }
 
 .Intro1 {
-    background-color: blueviolet;
+    background-color: rgb(248, 206, 19);
     float: right;
     border-radius: 15px;
-    margin-right: 500px;
+    margin-right: 125px;
+    margin-top: 80px;
+    padding: 40px;
+}
 
+button {
+    display: inline;
+    background-color: rgb(246, 114, 26);
+    border: 1px solid rgb(246, 114, 26);
+    width: 25%;
+    float: left;
+    font-family: "Dosis";
+    font-size: 36px;
+    letter-spacing: 5px;
+}
 
+button:hover {
+    background-color: #5475ad;
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
 }
 
 .Name {
@@ -22,12 +41,12 @@ h1 {
 }
 
 ul {
-    font-family: Optima;
+    font-family: Tahoma;
     font-size: 18px;
 }
 
 ol {
-    font-family: Georgia, 'Times New Roman', Times, serif font-size: 18px;
+    font-family: Tahoma, 'Times New Roman', Times, serif font-size: 18px;
 }
 
 .moms {
