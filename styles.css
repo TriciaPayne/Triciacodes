@@ -54,11 +54,13 @@ button:hover {
 .Name {
     text-align: center;
     font-size: 48px;
-    font-family: Nabla;
+    font-family: Dosis;
     font-weight: 50;
 
 
 }
+
+p {}
 
 ul {
     font-family: Tahoma;
