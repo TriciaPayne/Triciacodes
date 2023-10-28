@@ -16,6 +16,11 @@ h2 {
     margin-right: 320px;
 }
 
+.title1 {
+    display: block;
+    margin-bottom: 50px;
+}
+
 .healthheader {
     float: left;
     font-size: 60px;
@@ -44,8 +49,9 @@ h2 {
 
 .photo2 {
     float: left;
-    margin-left: 100px;
+    margin-left: 70px;
     margin-top: 50px;
+    margin-bottom: 50px;
     border: 3px;
     border-color: rgb(8, 8, 8);
     border-radius: 15px;
@@ -53,8 +59,9 @@ h2 {
 
 .photo3 {
     float: left;
-    margin-left: 100px;
-    margin-top: 50px;
+    margin-left: 150px;
+    margin-top: 10px;
+    margin-bottom: 100px;
     border: 3px;
     border-color: rgb(8, 8, 8);
     border-radius: 15px;
@@ -101,16 +108,45 @@ h2 {
     font-family: Dosis;
     font-weight: 50;
     margin-left: 50px;
+
 }
 
+.container {
+    display: auto;
+}
 
+.box1 {
+    display: flex;
+    grid-row: 1;
+    grid-column: 2;
+    background-color: red;
+    width: 80%;
+    height: 250px;
+    align-self: center;
+
+}
 
 p {
-    font-size: 18px;
+    font-size: ;
     font-family: Lucida Sans;
     text-align: left;
     margin-left: 550px;
     margin-right: 50px;
+}
+
+.content-row {
+    display: block;
+    background-color: ;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    font-size: 24px;
+
+}
+
+.story2 {
+    text-align: left;
+    flex: left;
+    font-size: 24px;
 }
 
 .p3 {
