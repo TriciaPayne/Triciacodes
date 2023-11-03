@@ -33,11 +33,14 @@ h2 {
 
 .Intro1 {
     background-color: rgb(248, 206, 19);
+    background-size: cover;
     float: right;
-    border-radius: 15px;
-    margin-right: 70px;
-    margin-top: 80px;
-    padding: 40px;
+    text-align: ;
+    border-radius: 25px;
+    margin-right: 225px;
+    margin-top: 65px;
+    margin-bottom: 15px;
+    padding: 20px;
 }
 
 .photo1 {
@@ -59,8 +62,8 @@ h2 {
 
 .photo3 {
     float: left;
-    margin-left: 150px;
-    margin-top: 10px;
+    margin-left: 210px;
+    margin-top: 50px;
     margin-bottom: 100px;
     border: 3px;
     border-color: rgb(8, 8, 8);
@@ -110,6 +113,15 @@ h2 {
     margin-left: ;
     margin-bottom: 150px;
 
+}
+
+.MyName {
+    text-align: center;
+    font-size: 48px;
+    font-family: Dosis;
+    font-weight: 50;
+    margin-left: ;
+    margin-bottom: 15px;
 }
 
 .container {
@@ -216,7 +228,7 @@ p {
 
 ul {
     font-family: Tahoma;
-    font-size: 18px;
+    font-size: 22px;
 }
 
 ol {
