@@ -103,11 +103,12 @@ h2 {
 }
 
 .Name {
-    text-align: right;
+    text-align: center;
     font-size: 48px;
     font-family: Dosis;
     font-weight: 50;
-    margin-left: 50px;
+    margin-left: ;
+    margin-bottom: 150px;
 
 }
 
@@ -137,6 +138,56 @@ p {
 .careers {
     margin-left: 100px;
     margin-right: 100px;
+}
+
+.pics {
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+    background-color: ;
+    display: ;
+    justify-content: center;
+    padding: 50px;
+}
+
+.pic1 {
+    padding: 50px;
+}
+
+.pic2 {
+    padding: 50px;
+}
+
+.pic3 {
+    padding: 50px;
+}
+
+.pic4 {
+    padding: 50px;
+}
+
+.pic5 {
+    padding: 50px;
+}
+
+.pic6 {
+    padding: 50px;
+}
+
+.pic7 {
+    padding: 50px;
+}
+
+.pic8 {
+    padding: 50px;
+}
+
+.pic9 {
+    padding: 50px;
+}
+
+.pic10 {
+    padding: 50px;
 }
 
 .content-row {
