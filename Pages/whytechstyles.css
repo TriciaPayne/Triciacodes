@@ -12,10 +12,12 @@ h1 {
 
 .photo3 {
     float: left;
-    margin-left: 10px;
-    margin-top: 50px;
-    margin-bottom: 100px;
-    border: 8px;
+    width: 41vw;
+    margin-left: 1vw;
+    margin-top: 2vh;
+    margin-bottom: 3vh;
+    margin-right: 2vw;
+    border: 1.5vh;
     border-radius: 15px;
     border-color: #5475ad;
     border-style: solid;
@@ -23,13 +25,16 @@ h1 {
 
 .photo4 {
     float: left;
-    margin-left: 125px;
-    margin-top: 50px;
-    margin-bottom: 100px;
-    border: 10px;
+    margin-left: 5vw;
+    margin-top: 2vh;
+    margin-bottom: 5vh;
+    margin-right: 5vw;
+    border: 1.5vh;
     border-radius: 15px;
     border-color: #5475ad;
     border-style: solid;
+    width: ;
+    height: 71vw;
 }
 
 .container {
@@ -55,41 +60,32 @@ h1 {
 
 .content-row {
     display: block;
-    background-color: white;
-    margin-bottom: 50px;
-    margin-top: 50px;
-    font-size: 24px;
-
+    background-color: ;
+    margin-bottom: 2vh;
+    margin-top: 3vh;
+    font-size: 1.5vw;
+    width: 50vw;
 }
 
 .story1 {
-    margin-left: 100px;
-    margin-right: 100px;
-    margin-top: 200px;
+    margin-left: ;
+    margin-right: ;
+    margin-top: ;
 }
 
 .story2 {
     text-align: left;
     flex: left;
-    font-size: 24px;
-    margin-left: 150px;
-    margin-right: 100px;
+    font-size: ;
+    margin-left: 5vw;
+    margin-right: 3vw;
 }
 
 .story3 {
-    margin-left:
+    margin-left: 3vw;
 }
 
 .title1 {
     display: block;
     margin-bottom: 50px;
-}
-
-.content-row {
-    display: block;
-    background-color: ;
-    margin-bottom: 50px;
-    margin-top: 50px;
-    font-size: 24px;
-
 }
