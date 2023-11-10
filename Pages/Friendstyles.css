@@ -1,0 +1,153 @@
+body {
+    background-color: rgb(246, 114, 26)
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-family: Nabla;
+    font-size: 7.5vw;
+    text-shadow: -10px 10px 5px rgb(207, 80, 12);
+}
+
+.button {
+    display: inline;
+    background-color: rgb(246, 114, 26);
+    border: 1px solid rgb(246, 114, 26);
+    width: 25%;
+    float: left;
+    font-family: "Dosis";
+    font-size: 2vw;
+    letter-spacing: 0.4vw;
+    padding: 2vw;
+}
+
+.container {
+    display: auto;
+}
+
+.button:hover {
+    background-color: #5475ad;
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+.Name {
+    text-align: center;
+    font-size: 48px;
+    font-family: Dosis;
+    font-weight: 50;
+    margin-left: ;
+    margin-bottom: 150px;
+
+}
+
+.pic1 {
+    padding: ;
+    border: 4px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 15px;
+    margin-right: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.pic2 {
+    padding: 0px;
+    border: 4px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 15px;
+    margin-left: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+
+.pic3 {
+    padding: 0px;
+    border-radius: 15px;
+    border: 4px;
+    border-color: black;
+    border-style: solid;
+    margin-right: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.pic4 {
+    padding: 0px;
+    border-radius: 15px;
+    border: 4px;
+    border-color: black;
+    border-style: solid;
+    margin-left: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.pic5 {
+    padding: 0px;
+    border-radius: 15px;
+    border: 4px;
+    border-color: black;
+    border-style: solid;
+    margin-right: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.pic6 {
+    padding: 0px;
+    border-radius: 15px;
+    border: 4px;
+    border-color: black;
+    border-style: solid;
+    margin-left: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.pic7 {
+    padding: 0px;
+    border-radius: 15px;
+    border: 4px;
+    border-color: black;
+    border-style: solid;
+    margin-right: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.pic8 {
+    padding: 0px;
+    border-radius: 15px;
+    border: 4px;
+    border-color: black;
+    border-style: solid;
+    margin-left: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.pic9 {
+    padding: 0px;
+    border-radius: 15px;
+    border: 4px;
+    border-color: black;
+    border-style: solid;
+    margin-right: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.pic10 {
+    padding: 0px;
+    border-radius: 15px;
+    border: 4px;
+    border-color: black;
+    border-style: solid;
+    margin-left: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
