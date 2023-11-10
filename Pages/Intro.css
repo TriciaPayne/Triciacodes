@@ -34,7 +34,7 @@ h1 {
     margin-top: 4vh;
     height: 65.2vh;
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     float: right;
     border-radius: 15px;
 }
@@ -84,8 +84,8 @@ h1 {
 }
 
 h2 {
-    float: right;
-    margin-right: 1vw;
+    float: ;
+    margin-right: 0vw;
     margin-bottom: 2vw;
     display: block;
 }
@@ -98,6 +98,8 @@ ul {
     /* Remove default margin */
     display: block;
     /* Make the list inline-block */
+    text-align: left;
+    align-self: center;
 }
 
 .button {
