@@ -1,6 +1,7 @@
 .careers {
-    margin-left: 100px;
-    margin-right: 100px;
+    margin-left: 6vw;
+    margin-right: 8vw;
+    font-size: 1.5vw;
 }
 
 .button {
@@ -35,5 +36,5 @@ h1 {
 
 h2 {
     float: right;
-    margin-right: 320px;
+    margin-right: ;
 }

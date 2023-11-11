@@ -33,121 +33,167 @@ h1 {
 
 .Name {
     text-align: center;
-    font-size: 48px;
+    text-shadow: 1vh 1vh 4vh yellow;
+    font-size: 5vh;
     font-family: Dosis;
     font-weight: 50;
-    margin-left: ;
-    margin-bottom: 150px;
+    margin-top: 18vh;
+    margin-bottom: 1vh;
+
+}
+
+.pics {
+    margin-left: 11vw;
+    margin-right: 11vw;
+    margin-top: 1vh;
+    text-align: center;
+    background-color: #CF500C;
+    border-radius: 15px;
+    justify-content: center;
+    padding: 1vw;
 
 }
 
 .pic1 {
+    width: 30vw;
     padding: ;
+    box-shadow: 0vh 0vh 3vh rgb(59, 14, 14);
     border: 4px;
     border-color: black;
     border-style: solid;
     border-radius: 15px;
-    margin-right: 10px;
-    margin-top: 15px;
-    margin-bottom: 15px;
+    margin-right: 2vw;
+    margin-left: 2vw;
+    margin-top: 3vw;
+    margin-bottom: 3vw;
+    align-self: center;
 }
 
 .pic2 {
+    width: 30vw;
     padding: 0px;
+    box-shadow: 0vh 0vh 3vh rgb(59, 14, 14);
     border: 4px;
     border-color: black;
     border-style: solid;
     border-radius: 15px;
-    margin-left: 10px;
-    margin-top: 15px;
-    margin-bottom: 15px;
-
+    margin-right: 2vw;
+    margin-left: 2vw;
+    margin-top: 3vw;
+    margin-bottom: 3vw;
+    align-self: center;
 }
+
 
 .pic3 {
+    width: 30vw;
     padding: 0px;
+    box-shadow: 0vh 0vh 3vh rgb(59, 14, 14);
     border-radius: 15px;
     border: 4px;
     border-color: black;
     border-style: solid;
-    margin-right: 10px;
-    margin-top: 15px;
-    margin-bottom: 15px;
+    margin-right: 2vw;
+    margin-left: 2vw;
+    margin-top: 3vw;
+    margin-bottom: 3vw;
 }
 
+
 .pic4 {
+    width: 30vw;
     padding: 0px;
+    box-shadow: 0vh 0vh 3vh rgb(59, 14, 14);
     border-radius: 15px;
     border: 4px;
     border-color: black;
     border-style: solid;
-    margin-left: 10px;
-    margin-top: 15px;
-    margin-bottom: 15px;
+    margin-right: 2vw;
+    margin-left: 2vw;
+    margin-top: 3vw;
+    margin-bottom: 3vw;
 }
 
 .pic5 {
+    width: 30vw;
     padding: 0px;
     border-radius: 15px;
+    box-shadow: 0vh 0vh 3vh rgb(59, 14, 14);
     border: 4px;
     border-color: black;
     border-style: solid;
-    margin-right: 10px;
-    margin-top: 15px;
-    margin-bottom: 15px;
+    margin-right: 2vw;
+    margin-left: 2vw;
+    margin-top: 3vw;
+    margin-bottom: 3vw;
 }
 
 .pic6 {
+    width: 30vw;
     padding: 0px;
+    box-shadow: 0vh 0vh 3vh rgb(59, 14, 14);
     border-radius: 15px;
     border: 4px;
     border-color: black;
     border-style: solid;
-    margin-left: 10px;
-    margin-top: 15px;
-    margin-bottom: 15px;
+    margin-right: 2vw;
+    margin-left: 2vw;
+    margin-top: 3vw;
+    margin-bottom: 3vw;
 }
 
 .pic7 {
+    width: 30vw;
     padding: 0px;
+    box-shadow: 0vh 0vh 3vh rgb(59, 14, 14);
     border-radius: 15px;
     border: 4px;
     border-color: black;
     border-style: solid;
-    margin-right: 10px;
-    margin-top: 15px;
-    margin-bottom: 15px;
+    margin-right: 2vw;
+    margin-left: 2vw;
+    margin-top: 3vw;
+    margin-bottom: 3vw;
 }
 
 .pic8 {
+    width: 30vw;
     padding: 0px;
+    box-shadow: 0vh 0vh 3vh rgb(59, 14, 14);
     border-radius: 15px;
     border: 4px;
     border-color: black;
     border-style: solid;
-    margin-left: 10px;
-    margin-top: 15px;
-    margin-bottom: 15px;
+    margin-right: 2vw;
+    margin-left: 2vw;
+    margin-top: 3vw;
+    margin-bottom: 3vw;
 }
 
 .pic9 {
+    width: 30vw;
     padding: 0px;
     border-radius: 15px;
+    box-shadow: 0vh 0vh 3vh rgb(59, 14, 14);
     border: 4px;
     border-color: black;
     border-style: solid;
-    margin-right: 10px;
-    margin-top: 15px;
-    margin-bottom: 15px;
+    margin-right: 2vw;
+    margin-left: 2vw;
+    margin-top: 3vw;
+    margin-bottom: 3vw;
 }
 
 .pic10 {
+    width: 30vw;
     padding: 0px;
     border-radius: 15px;
+    box-shadow: 0vh 0vh 3vh rgb(59, 14, 14);
     border: 4px;
     border-color: black;
     border-style: solid;
-    margin-left: 10px;
-    margin-top: 15px;
-    margin-bottom: 15px;
+    margin-right: 2vw;
+    margin-left: 2vw;
+    margin-top: 3vw;
+    margin-bottom: 3vw;
 }
