@@ -1,0 +1,352 @@
+body {
+    background-color: rgb(246, 114, 26)
+}
+
+h1 {
+    color: black;
+    text-align: center;
+    font-family: Nabla;
+    font-size: 7.5vw;
+    text-shadow: -10px 10px 5px rgb(207, 80, 12);
+
+}
+
+h2 {
+    float: right;
+    margin-right: 320px;
+}
+
+.title1 {
+    display: block;
+    margin-bottom: 50px;
+}
+
+.healthheader {
+    float: left;
+    font-size: 60px;
+    font-family: Dosis;
+    margin-bottom: 200px;
+    margin-left: 100px;
+    padding: 0px;
+
+}
+
+.backgroundmain {}
+
+.Intro1 {
+    background-color: rgb(248, 206, 19);
+    background-size: cover;
+    float: right;
+    text-align: ;
+    border-radius: 25px;
+    margin-right: 225px;
+    margin-top: 65px;
+    margin-bottom: 15px;
+    padding: 20px;
+}
+
+.photo1 {
+    float: right;
+    margin-top: 50px;
+    margin-left: 0px;
+    border-radius: 15px;
+    border: 4px;
+    border-color: black;
+    border-style: solid;
+}
+
+.photo2 {
+    float: left;
+    margin-left: 70px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border: 3px;
+    border-color: rgb(8, 8, 8);
+    border-radius: 15px;
+}
+
+.photo3 {
+    float: left;
+    margin-left: 110px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    border: 8px;
+    border-radius: 15px;
+    border-color: #5475ad;
+    border-style: solid;
+}
+
+.photo4 {
+    float: left;
+    margin-left: 125px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    border: 10px;
+    border-radius: 15px;
+    border-color: #5475ad;
+    border-style: solid;
+}
+
+.photo5 {
+    float: left;
+    margin-left: 250px;
+    margin-top: 50px;
+    margin-bottom: 100px;
+    border: 10px;
+    border-radius: 15px;
+    border-color: #5475ad;
+    border-style: solid;
+}
+
+.p2 {
+    margin-left: 80px;
+    margin-right: 470px;
+    padding: 20px;
+    font-size: 18px;
+    font-family: Lucida Sans;
+}
+
+.Friends {
+    font-family: "Nabla";
+    font-size: 42px;
+    text-align: center;
+    float: center;
+    border-radius: 15px;
+    padding: 5px;
+}
+
+.button {
+    display: inline;
+    background-color: rgb(246, 114, 26);
+    border: 1px solid rgb(246, 114, 26);
+    width: 25%;
+    float: left;
+    font-family: "Dosis";
+    font-size: 2vw;
+    letter-spacing: 0.4vw;
+    padding: 2vw;
+}
+
+.button:hover {
+    background-color: #5475ad;
+    box-shadow: 0 12px 16px 0 rgba(0, 0, 0, 0.24), 0 17px 50px 0 rgba(0, 0, 0, 0.19);
+}
+
+.Name {
+    text-align: center;
+    font-size: 48px;
+    font-family: Dosis;
+    font-weight: 50;
+    margin-left: ;
+    margin-bottom: 150px;
+
+}
+
+.MyName {
+    text-align: center;
+    font-size: 48px;
+    font-family: Dosis;
+    font-weight: 50;
+    margin-left: 70px;
+    margin-bottom: 15px;
+}
+
+.container {
+    display: auto;
+}
+
+.box1 {
+    display: flex;
+    grid-row: 1;
+    grid-column: 2;
+    background-color: red;
+    width: 80%;
+    height: 250px;
+    align-self: center;
+
+}
+
+p {
+    font-size: ;
+    font-family: Lucida Sans;
+    text-align: left;
+    margin-left: 550px;
+    margin-right: 50px;
+}
+
+.careers {
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.pics {
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 350px;
+    text-align: center;
+    background-color: #5475ad;
+    display: ;
+    justify-content: center;
+    padding: 10px;
+}
+
+.pic1 {
+    padding: ;
+    border: 4px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 15px;
+    margin-right: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.pic2 {
+    padding: 0px;
+    border: 4px;
+    border-color: black;
+    border-style: solid;
+    border-radius: 15px;
+    margin-left: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+
+}
+
+.pic3 {
+    padding: 0px;
+    border-radius: 15px;
+    border: 4px;
+    border-color: black;
+    border-style: solid;
+    margin-right: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.pic4 {
+    padding: 0px;
+    border-radius: 15px;
+    border: 4px;
+    border-color: black;
+    border-style: solid;
+    margin-left: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.pic5 {
+    padding: 0px;
+    border-radius: 15px;
+    border: 4px;
+    border-color: black;
+    border-style: solid;
+    margin-right: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.pic6 {
+    padding: 0px;
+    border-radius: 15px;
+    border: 4px;
+    border-color: black;
+    border-style: solid;
+    margin-left: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.pic7 {
+    padding: 0px;
+    border-radius: 15px;
+    border: 4px;
+    border-color: black;
+    border-style: solid;
+    margin-right: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.pic8 {
+    padding: 0px;
+    border-radius: 15px;
+    border: 4px;
+    border-color: black;
+    border-style: solid;
+    margin-left: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.pic9 {
+    padding: 0px;
+    border-radius: 15px;
+    border: 4px;
+    border-color: black;
+    border-style: solid;
+    margin-right: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.pic10 {
+    padding: 0px;
+    border-radius: 15px;
+    border: 4px;
+    border-color: black;
+    border-style: solid;
+    margin-left: 10px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.content-row {
+    display: block;
+    background-color: ;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    font-size: 24px;
+
+}
+
+.story1 {
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 200px;
+}
+
+.story2 {
+    text-align: left;
+    flex: left;
+    font-size: 24px;
+    margin-left: 150px;
+    margin-right: 100px;
+}
+
+.story3 {
+    margin-left:
+}
+
+.p3 {
+    font-size: 22px;
+    font-family: Lucida Sans;
+    text-align: left;
+    margin-left: 10px;
+    margin-right: 200px;
+
+}
+
+ul {
+    font-family: Tahoma;
+    font-size: 22px;
+}
+
+ol {
+    font-family: Tahoma, 'Times New Roman', Times, serif;
+    font-size: 18px;
+}
+
+.moms {
+    color: rgb (80, 29, 29);
+}
